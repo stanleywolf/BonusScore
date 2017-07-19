@@ -1,0 +1,2 @@
+# BonusScore
+SimpleCondition6
